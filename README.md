@@ -1,15 +1,20 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=max71126&label=Profile%20views&color=0e75b6&style=flat" alt="max71126" /> </p>
+<img src="./assets/header.png" alt="c-met24" />
 
-<h1 align="center">𝑬𝒙𝒑𝒆𝒓𝒕 𝑴𝒐𝒃𝒊𝒍𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒐𝒃𝒊𝒍𝒆 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕 | 𝑨𝑰 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏 | 𝑺𝑴𝑴</h1>
-
+<br />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47C4F7&center=true&random=true&width=435&lines=Hello!+I+am+Wonder...;8%2B+Years+of+Experience...;Welcome+to+my+Github!;Nice+to+meet+you!">
+  </a>
+</h1>
 <div>
-<p>Greetings! I am a highly skilled and experienced Mobile App Developer specializing in cross-platform development using .NET MAUI, Xamarin, React Native and Flutter. With a strong focus on delivering exceptional mobile experiences, I have successfully developed and launched numerous applications across various industries. I am dedicated to delivering top-notch work, ensuring high quality, and providing timely updates to my clients.
+
+<p>Greetings! I am a highly skilled and experienced Web Developer specializing in cross-platform development using React, Next.js, .NET MAUI, Xamarin, React Native and Flutter. With a strong focus on delivering exceptional mobile experiences, I have successfully developed and launched numerous applications across various industries. I am dedicated to delivering top-notch work, ensuring high quality, and providing timely updates to my clients.
 
 My Skills:
 
 ●Mobile Development: .NET MAUI, Xamarin, Flutter, React Native<br/>
 ●Cross-Platform Development: Xamarin.Forms, Flutter SDK<br/>
-●Programming Languages: C#, Dart, JavaScript<br/>
+●Programming Languages: JavaScript, C#, Dart<br/>
 ●UI Frameworks: XAML, Flutter Widgets<br/>
 ●Front-End Development: HTML, CSS, Bootstrap, Material Design<br/>
 ●Back-End Integration: RESTful APIs, JSON, XML<br/>
@@ -29,7 +34,7 @@ Additional Skills:
 𝐈𝐦𝐚𝐠𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧:
 
 🌟GANs, DeepDream, DALL-E, CLIP, Stable Diffusion<br/>
-🌟TensorFlow, PyTorch, Keras, OpenCV, Detectron, YOLO, Tesseract (OCR - Optical Character Recognition), Scikit-image, Caffe2, Hugging Face Transformers
+🌟TensorFlow, OpenCV, Detectron, YOLO, Tesseract, PyTorch, Keras (OCR - Optical Character Recognition), Scikit-image, Caffe2, Hugging Face Transformers
 
 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐀𝐈 / 𝐂𝐚𝐥𝐥𝐢𝐧𝐠 𝐀𝐠𝐞𝐧𝐭𝐬:
 
@@ -66,7 +71,7 @@ Please feel free to reach out to me for further discussion.</p>
 <table align="center">
   <tr>
       <td align="center" width="96">
-          <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="./assets/swift.svg" alt="swift" width="40" height="40"/> </a> 
+          <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="./assets/swift-icon.svg" alt="swift" width="40" height="40"/> </a> 
       <br>Swift
     </td>
     <td align="center" width="96">
@@ -108,7 +113,7 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Solidity
     </td>
     <td align="center" width="96">
-          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a> 
+          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a> 
       <br>C++
     </td>
     <td align="center" width="96">
@@ -116,11 +121,11 @@ Please feel free to reach out to me for further discussion.</p>
       <br>C
     </td>
     <td align="center" width="96">
-          <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="./assets/graphql.svg" alt="graphql" width="40" height="40"/> </a> 
+          <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="./assets/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="sass" />
+        <img src="./assets/sass-icon.svg" width="48" height="48" alt="sass" />
       <br>Sass
     </td>
     <td align="center" width="96">
@@ -146,7 +151,7 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Svelte
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+        <img src="./assets/react-icon.svg" width="48" height="48" alt="react" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -200,11 +205,11 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Flask
     </td>
     <td align="center" width="96">
-          <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=".//assets//django.svg" alt="django" width="40" height="40"/> </a> 
+          <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=".//assets//django-icon.svg" alt="django" width="40" height="40"/> </a> 
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+        <img src="./assets/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
@@ -218,7 +223,7 @@ Please feel free to reach out to me for further discussion.</p>
   </tr>
   <tr>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+        <img src="./assets/mysql-icon.svg" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -242,7 +247,7 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="github" />
+        <img src="./assets/github-icon.svg" width="48" height="48" alt="github" />
       <br>GitHub
     </td>
     <td align="center" width="96">
@@ -256,7 +261,7 @@ Please feel free to reach out to me for further discussion.</p>
   </tr>
   <tr>
     <td align="center"  width="96">
-          <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
+          <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="./assets/aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -276,7 +281,7 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Supabase
     </td>
     <td align="center" width="96">
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a> 
+          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -284,7 +289,7 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="kubernetes" />
+        <img src="./assets/kubernetes-icon.svg" width="48" height="48" alt="kubernetes" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
@@ -294,11 +299,11 @@ Please feel free to reach out to me for further discussion.</p>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="cloudflare" />
+        <img src="./assets/webpack-icon.svg" width="48" height="48" alt="cloudflare" />
       <br>Webpack
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="nginx" />
+        <img src="./assets/nginx-icon.svg" width="48" height="48" alt="nginx" />
       <br>Nginx
     </td>
     <td align="center" width="96">
@@ -310,7 +315,7 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="jest" />
+        <img src="./assets/jest-icon.svg" width="48" height="48" alt="jest" />
       <br>Jest
     </td>
     <td align="center" width="96">
@@ -326,7 +331,7 @@ Please feel free to reach out to me for further discussion.</p>
       <br>Bash
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="bash" />
+        <img src="./assets/java-icon.svg" width="48" height="48" alt="bash" />
       <br>Java
     </td>
   </tr>
@@ -334,23 +339,23 @@ Please feel free to reach out to me for further discussion.</p>
 
 ### Github Stats
 
-<div align="center"><a href="https://github.com/max71126?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=max71126&theme=onestar&no-frame=false" alt="max71126"/></a></div>
+<div align="center"><a href="https://github.com/c-met24?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=c-met246&theme=onestar&no-frame=false" alt="c-met24"/></a></div>
 <div align="center">
-<a href="https://github.com/max71126">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=max71126&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
+<a href="https://github.com/c-met24">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c-met24&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
 </a>
 </div>
 <div align="center">
- <a href="https://github.com/max71126?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=max71126&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="@max71126's github-readme-stats"/></a>
-<a href="https://github.com/max71126?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=max71126&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@max71126's github-readme-streak-stats"/></a>
+ <a href="https://github.com/c-met24?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=c-met24&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="@c-met24's github-readme-stats"/></a>
+<a href="https://github.com/c-met24?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=c-met24&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@c-met24's github-readme-streak-stats"/></a>
 </div>
 <div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=max71126&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="max71126"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=c-met24&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="c-met24"/>
 </div>
 
 ### GitHub Stats Degree
 
-<div align="left">
+<div align="center">
 <table>
 <tr>
 <td><strong>S</strong></td>
